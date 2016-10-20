@@ -16,7 +16,7 @@
   * Modificare il logo da giallo a trasparente (.png)
   * Rimuovere pagina "Special Thanks" ed aggiungere "Partners"
   * Aggiungere "Magazine" al titolo ??? (Gege)
-  * Sostituire le 3 immagini in evidenzia (Gege)
+  * Sostituire le 3 immagini in evidenzia e linkarle a video YouTube (Gege)
   * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
   * Cambiare categoria "concert" in "live" e come sottocategorie "concerts / festivals / events" (Gege)
   * Sotto a "rubric" aggiungere le sotto categorie "Band & musicians / social & charitable activities" (Gege)
@@ -26,6 +26,11 @@
 ### Miglioramenti minori
 
 ### Terminare
+
+## 0.3.2 / 2016-10-20
+
+  * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it) ([@Giando](https://GitHub.com/Giando))
+  * Aggiunto Partner [Lombardi Music ☆Management☆](http://www.l1s.it)
 
 ## 0.3.1 / 2016-10-15
 
