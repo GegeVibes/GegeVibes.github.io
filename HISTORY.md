@@ -4,6 +4,7 @@
 
   * Rendere tutti gli URL "SEO friendly"
   * Rimuovere tutti i link non funzionanti
+  * Collegare il canale YouTube al sito
 
 ### Correzioni di sviluppo
 
