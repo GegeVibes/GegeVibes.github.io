@@ -2,12 +2,18 @@
 
 ### Correzioni di bug
 
+  * Rimuovere tutti i link non funzionanti
+
 ### Correzioni di sviluppo
 
   * Aggiungere sitemap
   * Aggiungere robots.txt
 
 ### Miglioramenti del sito
+
+  * Modificare il logo da giallo a trasparente (.png)
+  * Rimuovere pagina "Special Thanks" ed aggiungere "Partners"
+  * Aggiungere "Magazine" al titolo ???
 
 ### Miglioramenti minori
 
@@ -21,6 +27,7 @@
 
 ### Correzioni di bug
 
+  * Aggiunto utente [Giando](http://www.gege-vibes.com/author/giando/)
   * Corretto link sulla [Pagina Facebook](https://fb.me/gegevibesoriginal)
   * Correzione ora locale (UTC +2)
 
