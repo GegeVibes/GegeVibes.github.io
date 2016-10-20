@@ -12,7 +12,6 @@
 
 ### Miglioramenti del sito
 
-  * Modificare il logo da giallo a trasparente (.png)
   * Aggiungere "Magazine" al titolo ??? (Gege)
   * Sostituire le 3 immagini in evidenzia e linkarle a video YouTube (Gege)
   * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
@@ -32,6 +31,10 @@
   * Aggiunto Partner [Lombardi Music ☆Management☆](http://www.l1s.it)
   * Rimossi Partner inattivi
   * Aggiunto robots.txt
+  * Modificato il logo da giallo a bianco (.png)
+  * Aggiunto [Feed Rss](http://www.gege-vibes.com/feed/rss/)
+  * Aggiunto link a [Twitter](https://twitter.com/GegeVibes)
+  * Aggiunto link a [Instagram](https://www.instagram.com/GegeVibes)
 
 ## 0.3.1 / 2016-10-15
 
