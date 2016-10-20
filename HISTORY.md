@@ -10,7 +10,7 @@
 
 ### Terminare
 
-## 0.3.0 / 2016-10-13 (@Giando)
+## 0.3.0 / 2016-10-13 ([@Giando](https://GitHub.com/Giando))
 
 ### Correzioni di bug
 
@@ -30,7 +30,6 @@
   * Creata [Pagina Twitter](https://twitter.com/GegeVibes)
   * Creato inoltro email
   * Installato plugin "Responsive"
-  * Installato plugin 
 
 ***
 (Modifiche non documentate)
@@ -38,7 +37,7 @@
 
 ## 0.2.0 / 2016-03-18
 
-  * Installato Wordpress (Martijn)
+  * Installato [Wordpress](http://wordpress.org) (Martijn)
   * Aggiunto plugin "Email Subscribers"
 
 ## 0.1.1 / 2015-12-23
