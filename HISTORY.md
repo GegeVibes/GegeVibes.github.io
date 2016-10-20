@@ -13,6 +13,10 @@
 
 ### Terminare
 
+## 0.3.1 / 2016-10-15
+
+  * Rimossi utenti inutilizzati ([@Giando](https://GitHub.com/Giando))
+
 ## 0.3.0 / 2016-10-13 ([@Giando](https://GitHub.com/Giando))
 
 ### Correzioni di bug
