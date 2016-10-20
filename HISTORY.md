@@ -4,6 +4,9 @@
 
 ### Correzioni di sviluppo
 
+  * Aggiungere sitemap
+  * Aggiungere robots.txt
+
 ### Miglioramenti del sito
 
 ### Miglioramenti minori
@@ -31,9 +34,9 @@
   * Creato inoltro email
   * Installato plugin "Responsive"
 
-***
+```
 (Modifiche non documentate)
-***
+```
 
 ## 0.2.0 / 2016-03-18
 
