@@ -9,12 +9,10 @@
 ### Correzioni di sviluppo
 
   * Aggiungere sitemap
-  * Aggiungere robots.txt
 
 ### Miglioramenti del sito
 
   * Modificare il logo da giallo a trasparente (.png)
-  * Rimuovere pagina "Special Thanks" ed aggiungere "Partners"
   * Aggiungere "Magazine" al titolo ??? (Gege)
   * Sostituire le 3 immagini in evidenzia e linkarle a video YouTube (Gege)
   * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
@@ -29,8 +27,11 @@
 
 ## 0.3.2 / 2016-10-20
 
+  * Rinominata pagina "Special Thanks" in "[Partners](http://www.gege-vibes.com/partners/)"
   * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it) ([@Giando](https://GitHub.com/Giando))
   * Aggiunto Partner [Lombardi Music ☆Management☆](http://www.l1s.it)
+  * Rimossi Partner inattivi
+  * Aggiunto robots.txt
 
 ## 0.3.1 / 2016-10-15
 
