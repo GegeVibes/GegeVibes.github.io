@@ -2,6 +2,7 @@
 
 ### Correzioni di bug
 
+  * Rendere tutti gli URL "SEO friendly"
   * Rimuovere tutti i link non funzionanti
 
 ### Correzioni di sviluppo
@@ -13,7 +14,13 @@
 
   * Modificare il logo da giallo a trasparente (.png)
   * Rimuovere pagina "Special Thanks" ed aggiungere "Partners"
-  * Aggiungere "Magazine" al titolo ???
+  * Aggiungere "Magazine" al titolo ??? (Gege)
+  * Sostituire le 3 immagini in evidenzia (Gege)
+  * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
+  * Cambiare categoria "concert" in "live" e come sottocategorie "concerts / festivals / events" (Gege)
+  * Sotto a "rubric" aggiungere le sotto categorie "Band & musicians / social & charitable activities" (Gege)
+  * Cambiare il tema attuale con uno più scorrevole e moderno (Gege)
+  * Design del testo verde giallo nero (jamaican style) in richiamo del logo (Gege)
 
 ### Miglioramenti minori
 
@@ -42,7 +49,7 @@
   * Aggiornati 11 plugin
   * Aggiornato il tema
   * Creata [Pagina Twitter](https://twitter.com/GegeVibes)
-  * Creato inoltro email
+  * Creato inoltro email ed eseguito test
   * Installato plugin "Responsive"
 
 ```
