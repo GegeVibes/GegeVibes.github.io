@@ -27,8 +27,8 @@
 
 ## 0.3.2 / 2016-10-20
 
-  * Rinominata pagina "Special Thanks" in "[Partners](http://www.gege-vibes.com/partners/)"
-  * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it) ([@Giando](https://GitHub.com/Giando))
+  * Rinominata pagina "Special Thanks" in "[Partners](http://www.gege-vibes.com/partners/)" ([@Giando](https://GitHub.com/Giando))
+  * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it)
   * Aggiunto Partner [Lombardi Music ☆Management☆](http://www.l1s.it)
   * Rimossi Partner inattivi
   * Aggiunto robots.txt
