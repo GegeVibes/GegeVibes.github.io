@@ -7,8 +7,6 @@
 
 ### Correzioni di sviluppo
 
-  * Aggiungere sitemap
-
 ### Miglioramenti del sito
 
   * Aggiungere "Magazine" al titolo ??? (Gege)
@@ -28,6 +26,10 @@
 
 ## v0.3.3 / 2016-10-23
 
+  * Abilitati i commenti ai post
+  * Abilitati i like ai post su Wordpress
+  * Aggiunta sitemap
+  * Categorie visualizzate con menu a tendina con il contatore dei post
   * Sostituite le 3 immagini in evidenzia ([@Giando](https://GitHub.com/Giando))
   * Linkate le immagini in evidenzia a video YouTube
   * Collegamento del sito a [WordPress.com](https://WordPress.com)
