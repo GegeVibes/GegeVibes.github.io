@@ -30,6 +30,12 @@
 
   * Sostituite le 3 immagini in evidenzia ([@Giando](https://GitHub.com/Giando))
   * Linkate le immagini in evidenzia a video YouTube
+  * Collegamento del sito a [WordPress.com](https://WordPress.com)
+  * Collegamento del sito a Twitter
+  * Installato Adsense
+  * Installato controllo statistiche d'accesso
+  * Installati pulsanti social: Facebook, Twitter, Google, LinkedIn, Pinterest, Tumblr, Telegram, WhatsApp, Email e Stampa
+  * Installato suggerimento di post correlati a fondo articoli
 
 ## v0.3.2 / 2016-10-20
 
