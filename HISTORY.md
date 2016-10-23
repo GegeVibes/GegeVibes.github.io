@@ -10,8 +10,6 @@
 ### Miglioramenti del sito
 
   * Aggiungere "Magazine" al titolo ??? (Gege)
-  * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
-  * Cambiare categoria "concert" in "live" e come sottocategorie "concerts / festivals / events" (Gege)
   * Sotto a "rubric" aggiungere le sotto categorie "Band & musicians / social & charitable activities" (Gege)
   * Cambiare il tema attuale con uno più scorrevole e moderno (Gege)
   * Design del testo verde giallo nero (jamaican style) in richiamo del logo (Gege)
