@@ -24,7 +24,11 @@
 
 ### Terminare
 
-## 0.3.2 / 2016-10-20
+## v0.3.3 / 2016-10-23
+
+  * 
+
+## v0.3.2 / 2016-10-20
 
   * Rinominata pagina "Special Thanks" in "[Partners](http://www.gege-vibes.com/partners/)" ([@Giando](https://GitHub.com/Giando))
   * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it)
@@ -36,11 +40,11 @@
   * Aggiunto link a [Twitter](https://twitter.com/GegeVibes)
   * Aggiunto link a [Instagram](https://www.instagram.com/GegeVibes)
 
-## 0.3.1 / 2016-10-15
+## v0.3.1 / 2016-10-15
 
   * Rimossi utenti inutilizzati ([@Giando](https://GitHub.com/Giando))
 
-## 0.3.0 / 2016-10-13 ([@Giando](https://GitHub.com/Giando))
+## v0.3.0 / 2016-10-13 ([@Giando](https://GitHub.com/Giando))
 
 ### Correzioni di bug
 
@@ -68,23 +72,23 @@
 ...
 ```
 
-## 0.2.0 / 2016-03-18
+## v0.2.0 / 2016-03-18
 
   * Installato [Wordpress](http://wordpress.org) (Martijn)
   * Aggiunto plugin "Email Subscribers"
 
-## 0.1.1 / 2015-12-23
+## v0.1.1 / 2015-12-23
 
   * Creata [Pagina Facebook](https://fb.me/gegevibesoriginal) (Gege)
 
-## 0.1.0 / 2015-12-16
+## v0.1.0 / 2015-12-16
 
   * Primo rilascio (Gege/Martijn)
 
-## 0.0.1 / 2015-12-14
+## v0.0.1 / 2015-12-14
 
   * Registrazione dominio [Gege-Vibes.com](http://www.Gege-Vibes.com) (Martijn)
 
-## 0.0.0 / 2013-09-17
+## v0.0.0 / 2013-09-17
 
   * Primo articolo (Gege)
