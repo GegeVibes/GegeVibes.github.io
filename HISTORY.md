@@ -3,7 +3,6 @@
 ### Correzioni di bug
 
   * Rendere tutti gli URL "SEO friendly"
-  * Rimuovere tutti i link non funzionanti
   * Collegare il canale YouTube al sito
 
 ### Correzioni di sviluppo
@@ -13,7 +12,6 @@
 ### Miglioramenti del sito
 
   * Aggiungere "Magazine" al titolo ??? (Gege)
-  * Sostituire le 3 immagini in evidenzia e linkarle a video YouTube (Gege)
   * Aggiungere categoria "releases" e sottocategoria "video" sotto ad interviews (Gege)
   * Cambiare categoria "concert" in "live" e come sottocategorie "concerts / festivals / events" (Gege)
   * Sotto a "rubric" aggiungere le sotto categorie "Band & musicians / social & charitable activities" (Gege)
@@ -22,11 +20,16 @@
 
 ### Miglioramenti minori
 
+  * Aggiungere favicon.ico
+
 ### Terminare
+
+  * Rimuovere tutti i link non funzionanti
 
 ## v0.3.3 / 2016-10-23
 
-  * 
+  * Sostituite le 3 immagini in evidenzia
+  * Linkate le immagini in evidenzia a video YouTube
 
 ## v0.3.2 / 2016-10-20
 
