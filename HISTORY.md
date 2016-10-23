@@ -28,7 +28,7 @@
 
 ## v0.3.3 / 2016-10-23
 
-  * Sostituite le 3 immagini in evidenzia
+  * Sostituite le 3 immagini in evidenzia ([@Giando](https://GitHub.com/Giando))
   * Linkate le immagini in evidenzia a video YouTube
 
 ## v0.3.2 / 2016-10-20
