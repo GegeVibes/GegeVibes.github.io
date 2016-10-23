@@ -26,12 +26,16 @@
 
 ## v0.3.3 / 2016-10-23
 
-  * Abilitati i commenti ai post
+  * Abilitati i commenti ai post ([@Giando](https://GitHub.com/Giando))
   * Abilitati i like ai post su Wordpress
   * Aggiunta sitemap
+  * Aggiunta categoria "Releases"
+  * Aggiunta sottocategoria "Video" ad "Interviews"
+  * Rinominata categoria "Concert" in "Live"
+    * Aggiunte sottocategorie "Concerts", "Festivals" e "Events"
   * Categorie visualizzate con menu a tendina con il contatore dei post
-  * Sostituite le 3 immagini in evidenzia ([@Giando](https://GitHub.com/Giando))
-  * Linkate le immagini in evidenzia a video YouTube
+  * Sostituite le 3 immagini in evidenzia
+  * Linkate le 3 immagini in evidenzia ai relativi articoli
   * Collegamento del sito a [WordPress.com](https://WordPress.com)
   * Collegamento del sito a Twitter
   * Installato Adsense
