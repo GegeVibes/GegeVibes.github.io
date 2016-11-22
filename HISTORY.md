@@ -23,7 +23,7 @@
 
 ## v0.3.4 / 2016-11-22
 
-  * Collegato il canale [YouTube](https://www.youtube.com/channel/UCS7NvLKH0mAYgKsixZIjFxQ) al sito
+  * Collegato il canale [YouTube](https://www.youtube.com/channel/UCS7NvLKH0mAYgKsixZIjFxQ) al sito ([@Giando](https://GitHub.com/Giando))
   * Rimossa finestra laterale con gli articoli più recenti
   * Aggiunta finestra laterale con gli articoli più letti in assoluto, con anteprima grafica
   * Bugfix visualizzazione sottocategorie nel menu principale
