@@ -3,7 +3,6 @@
 ### Correzioni di bug
 
   * Rendere tutti gli URL "SEO friendly"
-  * Collegare il canale YouTube al sito
 
 ### Correzioni di sviluppo
 
@@ -22,6 +21,15 @@
 
   * Rimuovere tutti i link non funzionanti
 
+## v0.3.4 / 2016-11-22
+
+  * Collegato il canale [YouTube](https://www.youtube.com/channel/UCS7NvLKH0mAYgKsixZIjFxQ) al sito
+  * Rimossa finestra laterale con gli articoli più recenti
+  * Aggiunta finestra laterale con gli articoli più letti in assoluto con anteprima grafica
+  * Bugfix visualizzazione sottocategorie nel menu principale
+  * Rimossi Partner inattivi
+  * Aggiunto Partner [Dancehall.it](http://www.dancehall.it)
+
 ## v0.3.3 / 2016-10-23
 
   * Abilitati i commenti ai post ([@Giando](https://GitHub.com/Giando))
@@ -35,7 +43,7 @@
   * Sostituite le 3 immagini in evidenzia
   * Linkate le 3 immagini in evidenzia ai relativi articoli
   * Collegamento del sito a [WordPress.com](https://WordPress.com)
-  * Collegamento del sito a Twitter
+  * Collegamento del sito a [Twitter](https://twitter.com/GegeVibes)
   * Installato Adsense
   * Installato controllo statistiche d'accesso
   * Installati pulsanti social: Facebook, Twitter, Google, LinkedIn, Pinterest, Tumblr, Telegram, WhatsApp, Email e Stampa
