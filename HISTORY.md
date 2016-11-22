@@ -25,9 +25,9 @@
 
   * Collegato il canale [YouTube](https://www.youtube.com/channel/UCS7NvLKH0mAYgKsixZIjFxQ) al sito
   * Rimossa finestra laterale con gli articoli più recenti
-  * Aggiunta finestra laterale con gli articoli più letti in assoluto con anteprima grafica
+  * Aggiunta finestra laterale con gli articoli più letti in assoluto, con anteprima grafica
   * Bugfix visualizzazione sottocategorie nel menu principale
-  * Rimossi Partner inattivi
+  * Rimossi [Partners](http://www.gege-vibes.com/partners/) inattivi
   * Aggiunto Partner [Dancehall.it](http://www.dancehall.it)
 
 ## v0.3.3 / 2016-10-23
@@ -54,7 +54,7 @@
   * Rinominata pagina "Special Thanks" in "[Partners](http://www.gege-vibes.com/partners/)" ([@Giando](https://GitHub.com/Giando))
   * Aggiunto Partner [Yardie Abbigliamento Danza Jamaicano](http://www.yardie.it)
   * Aggiunto Partner [Lombardi Music ☆Management☆](http://www.l1s.it)
-  * Rimossi Partner inattivi
+  * Rimossi [Partners](http://www.gege-vibes.com/partners/) inattivi
   * Aggiunto robots.txt
   * Modificato il logo da giallo a bianco (.png)
   * Aggiunto [Feed Rss](http://www.gege-vibes.com/feed/rss/)
