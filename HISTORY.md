@@ -21,6 +21,11 @@
 
   * Rimuovere tutti i link non funzionanti
 
+## v0.3.5 / 2017-01-06
+
+  * Aggiornati 8 plugins
+  * Aggiornato Wordpress da v4.5.4 a v4.7
+
 ## v0.3.4 / 2016-11-22
 
   * Collegato il canale [YouTube](https://www.youtube.com/channel/UCS7NvLKH0mAYgKsixZIjFxQ) al sito ([@Giando](https://GitHub.com/Giando))
