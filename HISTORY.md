@@ -21,6 +21,14 @@
 
   * Rimuovere tutti i link non funzionanti
 
+## v0.3.6 / 2017-01-12
+
+  * Aggiornato Wordpress da v4.7 a v4.7.1
+  * Aggiornato plugin gestione eventi
+  * Aggiunta sottocategoria "Drums & Rhythm" a "Rubric"
+  * Aggiunta barra di ricerca in intestazione
+  * Aggiunto pulsante "Email"
+
 ## v0.3.5 / 2017-01-06
 
   * Aggiornati 8 plugins
