@@ -21,6 +21,11 @@
 
   * Rimuovere tutti i link non funzionanti
 
+## v0.3.7 / 2017-01-17
+
+  * Aggiornato Jetpack da v4.4.2 a v4.5
+  * Aggiunto Partner [TYP - Take Your Pin](https://fb.me/typtakeyourpin)
+
 ## v0.3.6 / 2017-01-12
 
   * Aggiornato Wordpress da v4.7 a v4.7.1
