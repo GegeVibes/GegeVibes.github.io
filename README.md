@@ -20,9 +20,16 @@
 ### Terminare
 
   * Rimuovere tutti i link non funzionanti
-  
+
+## v0.3.9 / 2017-03-07
+
+  * Aggiornato Wordpress da v4.7.2 a v4.7.3
+  * Aggiornati 2 plugins
+  * Aggiunto Partner [Get Up Music](http://www.getupmusic.it)
+
 ## v0.3.8 / 2017-01-26
 
+  * Aggiornato Wordpress da v4.7.1 a v4.7.2
   * Aggiornati 2 plugins
 
 ## v0.3.7 / 2017-01-17
