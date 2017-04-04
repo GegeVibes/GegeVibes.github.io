@@ -21,6 +21,10 @@
 
   * Rimuovere tutti i link non funzionanti
 
+## v0.4.0 / 2017-03-04
+
+  * Aggiornati 5 plugins
+
 ## v0.3.9 / 2017-03-07
 
   * Aggiornato Wordpress da v4.7.2 a v4.7.3
